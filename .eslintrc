@@ -3,7 +3,8 @@
     "browser": true
   },
   "globals": {
-    "_": true
+    "_": true,
+    "angular": true
   },
   "rules": {
     "camelcase": [0],
